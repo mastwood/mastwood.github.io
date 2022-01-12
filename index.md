@@ -15,7 +15,7 @@ I am currently a Masters' student in Mathematics at Wilfrid Laurier University. 
 I have used the following languages for various projects over the years:
 - Python, MatLab, Mathematica, C#
 - Java, C++, Javascript, R
-  
+
 The past few years I have most frequently worked with Python and Mathematica.
 
 ### Packages and Technologies
