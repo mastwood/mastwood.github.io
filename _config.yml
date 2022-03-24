@@ -63,7 +63,7 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Projects # Needed for Siteleaf
+    title: Portfolio # Needed for Siteleaf
     output: true
     description: "Project Portfolio" # The post list page content
     feature_text: |
