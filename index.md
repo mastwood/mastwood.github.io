@@ -32,8 +32,13 @@ The following is a rough list of APIs and software I have used for scientific an
   
 I have worked with various markup languages and similar technologies such as XML, HTML, CSS, and JSON. 
 I am also experienced with Linux, having used Ubuntu through the WSL system as well as various other operating systems used in high performance computing clusters.
-Furthermore, I have some experience with web-based platforms, having assisted in developing the iGEM team websites (https://igem.uwaterloo.ca/, https://2020.igem.org/Team:Waterloo, https://2019.igem.org/Team:Waterloo)
-as well as a number of small web applications (some hosted via AWS, others hosted locally).
+Furthermore, I have some experience with web-based platforms, having assisted in developing the iGEM team websites:
+
+- <a href="https://igem.uwaterloo.ca/">iGEM Waterloo Team Website</a>
+- <a href="https://2020.igem.org/Team:Waterloo">iGEM Waterloo 2020 Project Website</a>
+- <a href="https://2019.igem.org/Team:Waterloo">iGEM Waterloo 2019 Project Website</a>
+
+As well as a number of small web applications (some hosted via AWS, others hosted locally).
 
 ### Graphic Design
 My graphic design experience is mostly relevant to game development or engineering positions. I have experience with 
