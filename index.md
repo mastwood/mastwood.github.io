@@ -2,24 +2,51 @@
 title: Michael Astwood
 feature_text: |
   ## Michael Astwood
-  Expert in statistical and numerical programming.
+  Software Engineer and Mathematical Physicist
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
 
-I am currently completing my MSc in Mathematics at Wilfrid Laurier University. I will graduate in August 2022, and I am currently looking for full time positions in a quantitative discipline
-such as data science, software engineering or mechanical engineering, or quantitative finance.
+I am a software engineer at Sandvine ULC, working in Waterloo Ontario.
+I recently completed a MSc in Mathematics at Wilfrid Laurier University. Before that,
+I completed a BSc in Honours Mathematical Physics at the University of Waterloo.w
+
+## Published Notes
+This personal website serves two purposes. First is to act as a kind of resume, and secondly to distribute my publications openly.
+I have completed two large scale note-taking projects, and the results can be found below.
+
+### Advanced Quantum Theory - Taught by Tobias Osborne
+My notes for Advanced Quantum Theory at University of Hannover have been approved and posted by Prof. Tobias Osborne. 
+The video lectures can be found <a href="https://www.youtube.com/playlist?list=PLDfPUNusx1Eo60qx3Od2KLUL4b7VDPo9F">here</a>.
+My notes can be found <a href="https://github.com/mastwood/advancedquantum">here</a>.
+
+### Clifford Algbras and Spinors - Taught by Spiro Karigiannis
+My notes from PMATH945 - Clifford Algebras, Spinors, and Calibrations at University of Waterloo. 
+The course was taught by Spiro Karigiannis in Fall 2020. He has approved these notes to be posted online.
+My notes can be found <a href="https://github.com/mastwood/clifford-algebras-notes">here</a>.
+
+
 
 ## Technical Skills
 
-### Programming Languages
-I have used the following languages for various projects over the years:
-- Python, MATLAB, Mathematica, C#
-- Java, C++, Javascript, R
+### Research Interests
+My research interests are primarily in applied differential geometry. I am interested in both computational
+and theoretical aspects of geometry. In particular, on the computational side I am interested in manifold learning,
+computational topology, and general dimensional reduction techniques. I have experience with real-time and static anomaly detection,
+and I am interested in applications of the aforementioned methods to anomaly detection, classification, and causal analysis.
+On the theoretical side I am more interested in mathematical physics. I am specifically interested in special structures on manifolds,
+partial differential equations arising from relativity and gauge theory, and related topics in geometric analysis. I have worked
+with complex and symplectic geometry in my research as well as pseudo-Riemannian geometry, which is specifically useful for relativity problems.
 
-The past few years I have most frequently worked with Python and Mathematica, although I keep my knowledge of object oriented programming sharp.
-The majority of my projects are simulations, mostly of fluid mechanical situations or chemical processes. These systems have to be
-modelled using either partial differential equations or stochastic processes. I have additionally required other mathematically oriented
+### Programming Languages
+
+- Expert in Python, GoLang, MATLAB, and Mathematica
+- Proficient in C#, Java, C++, Javascript, and R
+
+The past few years I have most frequently worked with Python and Mathematica. For my work at Sandvine, I mostly use Python 3 as well as GoLang.
+GoLang is useful for building scalable network interface applications for interacting with a large database. 
+The majority of my personal projects are simulations, mostly of fluid mechanical systems or chemical processes. These systems are
+modelled using partial differential equationsandr stochastic processes. I have additionally required other mathematically oriented
 programming languages such as R or MATLAB, which are useful for statistical analyses and optimization problems respectively. 
 
 ### Packages and Technologies
@@ -39,7 +66,7 @@ Furthermore, I have some experience with web-based platforms, having assisted in
 - <a href="https://2020.igem.org/Team:Waterloo">iGEM Waterloo 2020 Project Website</a>
 - <a href="https://2019.igem.org/Team:Waterloo">iGEM Waterloo 2019 Project Website</a>
 
-As well as a number of small web applications (some hosted via AWS, others hosted locally).
+I have also developed a number of small web applications for personal use (some hosted via AWS, others hosted locally).
 
 ### Graphic Design
 My graphic design experience is mostly relevant to game development or engineering positions. I have experience with 
