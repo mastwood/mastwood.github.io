@@ -2,14 +2,14 @@
 title: Michael Astwood
 feature_text: |
   ## Michael Astwood
-  Software Engineer and Mathematical Physicist
+  Mathematical Physicist and Software Engineer
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
 
 I am a software engineer at Sandvine ULC, working in Waterloo Ontario.
 I recently completed a MSc in Mathematics at Wilfrid Laurier University. Before that,
-I completed a BSc in Honours Mathematical Physics at the University of Waterloo.w
+I completed a BSc in Honours Mathematical Physics at the University of Waterloo.
 
 ## Published Notes
 This personal website serves two purposes. First is to act as a kind of resume, and secondly to distribute my publications openly.
