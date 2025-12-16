@@ -7,7 +7,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
 
-I am a PhD Student in Mathematics under the supervision of Dr. Derek Krepski at the University of Manitoba. I completed my MSc in Mathematics at Wilfrid Laurier University under the supervision of Dr. Shengda Hu and Dr. Manuele Santoprete. Before that, I completed a BSc in Honours Mathematical Physics at University of Waterloo, with a minor in Pure Mathematics and a specialization in Astrophysics.
+I am a PhD Candidate in Mathematics under the supervision of Dr. Derek Krepski at the University of Manitoba. I completed my MSc in Mathematics at Wilfrid Laurier University under the supervision of Dr. Shengda Hu and Dr. Manuele Santoprete. Before that, I completed a BSc in Honours Mathematical Physics at University of Waterloo, with a minor in Pure Mathematics and a specialization in Astrophysics.
 
 ## Published Notes
 This personal website serves two purposes. First is to act as a kind of resume, and secondly to distribute my publications openly.
